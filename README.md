@@ -481,20 +481,6 @@
                         </div>
                     </div>
                 </div>
-                
-                <div class="timeline-item">
-                    <div class="timeline-content">
-                        <div class="timeline-date">Jan 2021 - Mar 2022</div>
-                        <div class="timeline-role">Java Backend Developer</div>
-                        <div class="timeline-company">Certified IT Consultants, Cairo, Egypt</div>
-                        <div class="timeline-desc">
-                            <ul>
-                                <li>Worked with a team on multiple backend solutions using spring boot, JPA, hibernate</li>
-                                <li>Utilized SQL to interact with the database, ensuring efficient data retrieval and manipulation</li>
-                                <li>Worked with cross-functional squads to understand and address customer needs</li>
-                            </ul>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -505,19 +491,6 @@
             <div class="section-title">
                 <h2>Projects</h2>
             </div>
-            
-            <div class="project-grid">
-                <div class="project-card">
-                    <div class="project-content">
-                        <h3 class="project-title">Digital Certificates Using Blockchain</h3>
-                        <p class="project-desc">A Web application that creates academic graduation certificates for university students in a secured and efficient network that consists of universities and recruiting companies.</p>
-                        <div class="project-tech">
-                            <span class="tech-tag">Hyperledger Fabric</span>
-                            <span class="tech-tag">VueJS</span>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="project-card">
                     <div class="project-content">
                         <h3 class="project-title">Wabtec CMT</h3>
@@ -534,29 +507,6 @@
                         <h3 class="project-title">Eshtri Aqar</h3>
                         <p class="project-desc">An Ecommerce web application that handles transactions regarding real estate, the website is responsible for selling and showing various units.</p>
                         <div class="project-tech">
-                            <span class="tech-tag">Spring Boot</span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="project-card">
-                    <div class="project-content">
-                        <h3 class="project-title">Printing Contract Application</h3>
-                        <p class="project-desc">A server side solution that takes a word document as input, replaces keywords with data automatically and then downloads them as PDF.</p>
-                        <div class="project-tech">
-                            <span class="tech-tag">Java 17</span>
-                            <span class="tech-tag">Apache POI</span>
-                            <span class="tech-tag">Spring Boot</span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="project-card">
-                    <div class="project-content">
-                        <h3 class="project-title">OPay Integration Framework</h3>
-                        <p class="project-desc">A backend application that integrates with OPay application to do transactions with outside providers using plugin design pattern.</p>
-                        <div class="project-tech">
-                            <span class="tech-tag">Java 8</span>
                             <span class="tech-tag">Spring Boot</span>
                         </div>
                     </div>
