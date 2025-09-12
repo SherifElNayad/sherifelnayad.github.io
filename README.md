@@ -481,7 +481,6 @@
                         </div>
                     </div>
                 </div>
-                </div>
             </div>
         </div>
     </section>
@@ -510,7 +509,6 @@
                             <span class="tech-tag">Spring Boot</span>
                         </div>
                     </div>
-                </div>
             </div>
         </div>
     </section>
