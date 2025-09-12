@@ -287,7 +287,7 @@
       <div class="card contact">
         <div class="row"><strong>Email:</strong> <a href="mailto:Sherifali121@gmail.com">Sherifali121@gmail.com</a></div>
         <div class="row"><strong>Phone:</strong> <a href="tel:+201060512256">+20 106 051 2256</a></div>
-        <div class="row"><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sherif-el-nayad-96b9a4162" target="_blank" rel="noopener">linkedin.com/in/sherif-el-nayad-96b9a4162</a></div>
+        <div class="row"><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sherif-abd-el-khalek-96b9a4162/" target="_blank" rel="noopener">linkedin.com/in/sherif-el-nayad-96b9a4162</a></div>
       </div>
     </section>
 
