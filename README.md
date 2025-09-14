@@ -171,7 +171,7 @@
           <p class="tagline">I design and deliver backend systems that are observable, secure, and easy to evolve. I enjoy replacing brittle monolith bits with well‑bounded, event‑driven services.</p>
           <div class="cta">
             <a class="btn primary pulse" href="#contact">Hire Me</a>
-            <a class="btn" href="https://www.linkedin.com/in/sherif-el-nayad-96b9a4162" target="_blank" rel="noopener">LinkedIn</a>
+            <a class="btn" href="https://www.linkedin.com/in/sherif-abd-el-khalek-96b9a4162" target="_blank" rel="noopener">LinkedIn</a>
             <a class="btn" href="mailto:Sherifali121@gmail.com">Email</a>
           </div>
         </div>
